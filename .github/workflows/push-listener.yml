@@ -1,0 +1,12 @@
+name: Escucha de Push
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  log-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Confirmar push
+        run: echo "Push recibido en la rama ${{ github.ref_name }} - Lumen activo"
