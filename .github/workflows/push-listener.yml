@@ -9,4 +9,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Confirmar push
-        run: echo "Push recibido en la rama ${{ github.ref_name }} - Lumen activo"
+        run: echo "Push recibido en la rama ${{ github.ref_name }} - HELIOS activo"
