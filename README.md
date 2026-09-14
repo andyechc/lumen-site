@@ -1,4 +1,4 @@
-# HELIOS — Explorador del Sistema Solar
+# Lumen — Explorador del Sistema Solar
 
 Viaje 3D interactivo por los 8 planetas con órbitas, scroll cinematográfico y fichas de datos. Hecho con Three.js y desplegado en GitHub Pages.
 
@@ -40,4 +40,4 @@ git push origin main:gh-pages
 
 ## Créditos
 
-Hecho por [andyechc](https://github.com/andyechc) · HELIOS — Explorador del Sistema Solar.
+Hecho por [andyechc](https://github.com/andyechc) · Lumen — Explorador del Sistema Solar.
